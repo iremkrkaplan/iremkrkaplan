@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm İrem</h1>
+<h1 align="center">Hi👋🏼, I'm İrem</h1>
 <h3 align="center">I'm a passionate Computer science engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iremkrkaplan&label=Profile%20views&color=0e75b6&style=flat" alt="iremkrkaplan" /> </p>
