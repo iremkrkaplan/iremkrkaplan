@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Computer science engineering student</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=iremkrkaplan&label=Profile%20views&color=purple&style=flat" alt="iremkrkaplan" /> 
+  <img src="https://komarev.com/ghpvc/?username=iremkrkaplan&label=Profile%20views&color=8A2BE2&style=flat" alt="iremkrkaplan" /> 
 </p>
 
 <p align="center">
