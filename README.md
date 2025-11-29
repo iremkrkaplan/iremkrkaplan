@@ -22,7 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&" alt="iremkrkaplan" /></p>
 
-
 <p align="center">
   <a href="https://github.com/iremkrkaplan/iremkrkaplan/actions/workflows/snake.yml">
     <picture>
@@ -31,3 +30,5 @@
     </picture>
   </a>
 </p>
+
+
