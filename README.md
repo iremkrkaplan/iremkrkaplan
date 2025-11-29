@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iremkrkaplan&theme=monokai-metallian&no-bg=true&margin-w=15&margin-h=15&hide=reviews" alt="iremkrkaplan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iremkrkaplan&theme=monokai-metallian&no-bg=true&margin-w=15&margin-h=15&hide=reviews&v=2" alt="iremkrkaplan" />
   </a> 
 </p>
 
@@ -38,7 +38,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
