@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iremkrkaplan&theme=nord" alt="iremkrkaplan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iremkrkaplan&theme=rose_pine" alt="iremkrkaplan" />
   </a> 
 </p>
 
@@ -39,11 +39,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=nord" alt="iremkrkaplan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="iremkrkaplan" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=nord" alt="iremkrkaplan" />
+<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=rose_pine" alt="iremkrkaplan" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=nord" alt="iremkrkaplan" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=rose_pine" alt="iremkrkaplan" />
 
 </div>
 
