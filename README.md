@@ -7,12 +7,13 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iremkrkaplan&theme=radical" alt="iremkrkaplan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iremkrkaplan&theme=cobalt" alt="iremkrkaplan" />
   </a> 
 </p>
 
 - 💬 Ask me about **iOS Development**
 - 📫 How to reach me **iremkrkaplan@gmail.com**
+- 💼 LinkedIn **[İrem Karakaplan](https://www.linkedin.com/in/irem-karakaplan/)**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -38,11 +39,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=radical" alt="iremkrkaplan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="iremkrkaplan" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=radical" alt="iremkrkaplan" />
+<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=cobalt" alt="iremkrkaplan" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=radical" alt="iremkrkaplan" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=cobalt" alt="iremkrkaplan" />
 
 </div>
 
