@@ -21,3 +21,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en" alt="iremkrkaplan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&" alt="iremkrkaplan" /></p>
+
+
+<p align="center">
+  <a href="https://github.com/iremkrkaplan/iremkrkaplan/actions/workflows/snake.yml">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iremkrkaplan/iremkrkaplan/blob/output/github-contribution-grid-snake-dark.svg">
+      <img alt="github contribution grid snake animation" src="https://github.com/iremkrkaplan/iremkrkaplan/blob/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
+</p>
