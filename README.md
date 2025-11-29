@@ -38,11 +38,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=dark" alt="iremkrkaplan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=radical" alt="iremkrkaplan" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=dark" alt="iremkrkaplan" />
+<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=radical" alt="iremkrkaplan" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=dark" alt="iremkrkaplan" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=radical" alt="iremkrkaplan" />
 
 </div>
 
