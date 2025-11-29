@@ -2,12 +2,12 @@
 <h3 align="center">I'm a passionate Computer Science Engineering Student</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=iremkrkaplan&label=Profile%20views&color=0e75b6&style=flat" alt="iremkrkaplan" /> 
+  <img src="https://komarev.com/ghpvc/?username=iremkrkaplan&label=Profile%20views&color=bd93f9&style=flat" alt="iremkrkaplan" /> 
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iremkrkaplan&theme=rose_pine" alt="iremkrkaplan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iremkrkaplan&theme=dracula" alt="iremkrkaplan" />
   </a> 
 </p>
 
@@ -39,11 +39,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="iremkrkaplan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="iremkrkaplan" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=rose_pine" alt="iremkrkaplan" />
+<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=dracula" alt="iremkrkaplan" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=rose_pine" alt="iremkrkaplan" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=dracula" alt="iremkrkaplan" />
 
 </div>
 
