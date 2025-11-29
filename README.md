@@ -3,6 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iremkrkaplan&label=Profile%20views&color=0e75b6&style=flat" alt="iremkrkaplan" /> </p>
 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iremkrkaplan&theme=monokai-metallian&no-bg=true&margin-w=15&margin-h=15&hide=reviews" alt="iremkrkaplan" />
+  </a> 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -32,7 +38,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
@@ -49,7 +55,6 @@
 
 </div>
 
-<!-- Snake Animation -->
 <div align="center">
   <a href="https://github.com/iremkrkaplan/iremkrkaplan/actions/workflows/snake.yml">
     <picture>
