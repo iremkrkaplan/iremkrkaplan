@@ -14,12 +14,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 💬 Ask me about <strong>iOS Development</strong><br>
-📫 How to reach me: 
+📫 How to reach me: <strong>iremkrkaplan@gmail.com</strong>
+</p>
+<p align="left">
 <a href="mailto:iremkrkaplan@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" style="vertical-align:middle; margin:0 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" />
 </a>
 <a href="https://www.linkedin.com/in/irem-karakaplan/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="vertical-align:middle; margin:0 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />
 </a>
 </p>
 
