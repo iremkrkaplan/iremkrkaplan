@@ -13,8 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 💬 Ask me about **iOS Development**
-- 📫 How to reach me **iremkrkaplan@gmail.com**
+💬 Ask me about <strong>iOS Development</strong><br>
+📫 How to reach me: 
+<a href="mailto:iremkrkaplan@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" style="vertical-align:middle; margin:0 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/irem-karakaplan/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="vertical-align:middle; margin:0 5px;" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,24 +47,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=nightowl&hide_border=true" alt="iremkrkaplan" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremkrkaplan&theme=nightowl&hide_border=true" alt="iremkrkaplan" loading="lazy" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=nightowl&hide_border=true&hide=reviews,contribs" alt="iremkrkaplan" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="iremkrkaplan" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=iremkrkaplan&show_icons=true&locale=en&theme=nightowl&hide_border=true&hide=reviews,contribs" alt="iremkrkaplan" height="180" loading="lazy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iremkrkaplan&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="iremkrkaplan" height="180" loading="lazy" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iremkrkaplan&theme=nightowl&hide_border=true&area=true" alt="iremkrkaplan Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iremkrkaplan&theme=nightowl&hide_border=true&area=true" alt="iremkrkaplan Activity Graph" loading="lazy" />
 
 </div>
 
 <div align="center">
   <a href="https://github.com/iremkrkaplan/iremkrkaplan/actions/workflows/snake.yml">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iremkrkaplan/iremkrkaplan/blob/output/github-contribution-grid-snake-dark.svg">
-      <img alt="github contribution grid snake animation" src="https://github.com/iremkrkaplan/iremkrkaplan/blob/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iremkrkaplan/iremkrkaplan/output/github-contribution-grid-snake-dark.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iremkrkaplan/iremkrkaplan/output/github-contribution-grid-snake.svg">
     </picture>
   </a>
 </div>
